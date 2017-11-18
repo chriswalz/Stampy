@@ -1,5 +1,5 @@
 # Stampy
-Easy mustache templating with Java for generated excel reports and spreadsheets
+Easy mustache templating with Java for generating excel reports and spreadsheets
 
 ## How it works 
 
