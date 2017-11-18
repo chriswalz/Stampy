@@ -1,0 +1,11 @@
+.idea
+
+target/classes/stampy/Stampy.class
+
+target/classes/Main.class
+
+target/test-classes/StampyTest.class
+
+*.iml
+
+stampy_output.xlsx
